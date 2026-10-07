@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "repo": "prova",
+  "repo_url": "https://github.com/RodriguesGS/prova",
+  "exam_dir": "exams/2026/track-01-especificacao-sdd",
+  "track": "track-01-especificacao-sdd",
+  "issue": 1,
+  "issue_url": "https://github.com/RodriguesGS/prova/issues/1",
+  "gerado_em": "2026-10-07T23:47:31+00:00",
+  "fechada_em": "2026-10-07T23:47:00Z",
+  "aplicada": true,
+  "motivo": null,
+  "aluno": {
+    "login": "RodriguesGS",
+    "ra": "230381822",
+    "nome": "Gabriel"
+  },
+  "variante": {
+    "slug": "prova",
+    "EXAM_DIR": "exams/2026/track-01-especificacao-sdd",
+    "TARIFA_HORA_CENTAVOS": 550,
+    "FRACAO_MINUTOS": 30,
+    "TETO_DIARIO_CENTAVOS": 7000,
+    "PORTA_SERVICO": 8004,
+    "TOLERANCIA_MINUTOS": 0
+  },
+  "janela": {
+    "minutos": 120,
+    "t0": "2026-10-07T22:22:00Z",
+    "ultimo_push": "2026-10-07T20:37:31-03:00"
+  },
+  "commits": {
+    "total": 8,
+    "autores": [
+      "Gabriel"
+    ],
+    "primeiro": "2026-10-07T19:13:50-03:00",
+    "ultimo": "2026-10-07T20:37:31-03:00",
+    "fora_da_janela": 0
+  },
+  "nota_parcial": {
+    "valor": null,
+    "criterios": {}
+  },
+  "auto_correcao": {
+    "executada": true,
+    "nota_ultima": 15
+  },
+  "fontes": {
+    "presente": true,
+    "declarou_vazio": false,
+    "links": 1
+  }
+}
